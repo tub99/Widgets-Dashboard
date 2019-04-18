@@ -1,0 +1,23 @@
+.engine-status{
+    color: white;
+    
+}
+
+.engine-status>h4{
+    padding-left: 0;
+}
+.engine-status .engine-status-col{
+    padding-left: 0;
+}
+
+.engine-header{
+    text-align: center;
+    color: white;
+    background-color: #000;
+    background: linear-gradient(-180deg,#00102b,#002052);
+    border-radius: .3rem .3rem 0 0;
+}
+
+.engine-hours-container{
+    height: 42.5%;
+}

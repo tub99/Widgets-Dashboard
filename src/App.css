@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  background: url('/images/background.png') no-repeat;
+  background-size: cover;
+  padding-left:0;
+}
+
+
+SideBar {
+ 
+ float:left; 
+}
+
+.card-body{
+  background-color: rgba(5,36,88,.78);
+    padding: .5rem .8rem;
+    border-radius: 0 0 .3rem .3rem;
+    border: 2px solid #1b3f74;
+    border-top: none;
+}
+
+.env-container-main{
+  margin-left:-30px
+}

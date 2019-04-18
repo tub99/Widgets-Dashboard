@@ -1,0 +1,38 @@
+.chart-buttons{
+
+  
+    top:1%;
+    padding: .3rem .8rem;
+    border: 1px solid #fff;
+    background-color: #092c65;
+    color: #fff;
+    border-radius: 2rem;
+    font-size: .8rem;
+    width: 70px;
+    margin: 0 5px;
+    cursor: pointer;
+    outline: none;
+    transition: .2s;
+}
+
+.day-btn{
+    background-color: white;
+    color: black;
+    right:40%
+}
+
+.week-btn{
+    right:3%;
+    background-color:#00011F;
+}
+
+.chart-label{
+    background-color: #000;
+    background: linear-gradient(-180deg,#00102b,#002052);
+    border-radius: .3rem .3rem 0 0;
+    color: white;
+}
+
+.chart-container,.spline-container{
+    border: 1px solid grey;
+}

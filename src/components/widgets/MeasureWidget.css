@@ -1,0 +1,39 @@
+
+.widget-container{
+  padding-bottom: 10%;
+  border-bottom: 2px solid rgba(0,0,0,.31);
+}
+.widget {
+    position:relative;
+      height: 30px;
+      width:70%;
+      border: 2px solid grey;
+      border-radius: 50px;
+      margin: 0 auto;
+
+      background-color: red; /* For browsers that do not support gradients */
+      
+    }
+
+    .gradient-2{
+      background-image: linear-gradient(to right, blue, purple, pink); /* Standard syntax
+      (must be last) */
+    }
+    .gradient-1{
+      background-image: linear-gradient(to right, aqua, yellow, red); /* Standard syntax
+      (must be last) */
+    }
+  .pointer{
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 14px solid #fff;
+    margin-left: -9px;
+    padding-top: 12px;
+    }
+
+    .widget-container .label-val{
+      margin-left: 36%;
+    }

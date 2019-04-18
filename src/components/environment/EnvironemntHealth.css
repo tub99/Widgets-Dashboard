@@ -1,0 +1,28 @@
+.health-attr{
+    border: 2px solid grey;
+    border-radius: 6px;
+    margin: 5px;
+    color: white;
+    padding:10px;
+    background-color: #000;
+    background: linear-gradient(-180deg,#00102b,#002052);
+    border-radius: .4rem .4rem 0 0;
+}
+.health-attr .attr-label{
+    float:left;
+}
+
+.health-attr .switch{
+    
+}
+
+.env-health-container{
+    margin:10px;
+}
+.env-health-container .env-health-header{
+    color: white;
+    background-color: #000;
+    background: linear-gradient(-180deg,#00102b,#002052);
+    border-radius: .3rem .3rem 0 0;
+
+}
